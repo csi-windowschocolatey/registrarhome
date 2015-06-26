@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
-    <id>pplicationcompatibilitytoolkit</id>
+    <id>applicationcompatibilitytoolkit</id>
     <title>Microsoft Application Compatibility Toolkit</title>
     <version>5.6</version>
     <authors>Microsoft</authors>
@@ -16,7 +16,7 @@ Installs the Microsoft Application Compatibility Toolkit.
     <tags>ACT</tags>
     <copyright>Microsoft</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://cdn.rawgit.com/ferventcoder/chocolatey-packages/fd1a5932edc26194500554d026ca35e6c0274b6c/icons/microsoft-sql-server.svg</iconUrl>
+    <iconUrl>https://cdn.rawgit.com/csi-windowschocolatey/applicationcompatibilitytoolkit/master/appicon.png</iconUrl>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
