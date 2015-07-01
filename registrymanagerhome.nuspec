@@ -17,7 +17,7 @@ Not all capabilities are enabled in the free Home edition which this package ins
     <tags>Registry Editor, Registry Search</tags>
     <copyright>Resplendence Software Projects Sp.</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://cdn.rawgit.com/csi-windowschocolatey/applicationcompatibilitytoolkit/master/appicon.png</iconUrl>
+    <iconUrl>https://cdn.rawgit.com/csi-windowschocolatey/registrymanager/master/appicon.png</iconUrl>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
